@@ -1,0 +1,2 @@
+https://homefish.co/wp-admin/
+https://homefish.co/wp-admin/admin-ajax.php
